@@ -20,7 +20,7 @@ Key features:
 ```bash
 # Clone repo
 git clone https://github.com/bb19969/Aegis
-cd <your-repo>
+cd ~/tools/Aegis
 
 # Install
 chmod +x setup_aegis.sh
