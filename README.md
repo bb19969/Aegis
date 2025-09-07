@@ -38,7 +38,7 @@ aegis ai "do a fast scan of Tesla"
 ### Step 1. Clone the repository
 ```bash
 git clone https://github.com/bb19969/Aegis
-cd <your-repo>
+cd ~/tools/Aegis
 ```
 
 ### Step 2. Run the installer
